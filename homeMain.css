@@ -1,0 +1,205 @@
+html
+{
+    color: #000;
+    display: block;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin: 0px;
+    background-color: #660000;
+}
+head
+{
+    display: none;
+
+}
+body
+{
+	font: 20px/1.231 arial, helvetica, clean, sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 13px;
+    line-height: 1.231;
+    font-family: arial, helvetica, clean, serif;
+}
+body
+{
+    text-align: center;
+}
+body
+{
+    display: block;
+    margin: 20px;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+}
+h1
+{
+    font-size: 23px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: #fff 1px 1px 0px;
+    line-height: 110%;
+    letter-spacing: 2px;
+    text-align: center;
+    background-image: url(../gfx/bg-h1.png), url(../gfx/bg-h1.png);
+    background-position: left 50%, right 50%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    padding: 30px 25px 30px 25px;
+    margin: 20px 0;
+}
+h2
+{
+	text-align: center;
+}
+div
+{
+    display: block;
+}
+.front article.node-page #exit
+{
+    position: absolute;
+    display: block;
+    width: 125px;
+    height: 49px;
+    top: 272px;
+    left: 50%;
+    margin-left: -132px;
+}
+.front article.node-page #enter
+{
+    position: absolute;
+    display: block;
+    width: 100px;
+    height: 49px;
+    top: 272px;
+    left: 50%;
+    margin-left: 20px;
+}
+.content a:link, .content a:visited
+{
+    font-weight: bold;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: #333;
+}
+a:-webkit-any-link
+{
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+a:link, a:visited
+{
+    background-color: #000000;
+    color: white;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active
+{
+    background-color: green;
+    text-align: center;
+}
+.front article.node-page ul, .front article.node-page li
+{
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    list-style: none;
+    list-style-type: none;
+    list-style-position: initial;
+    list-style-image: initial;
+}
+li
+{
+	font-size: 15px;
+	font-weight: bold;
+    text-transform: uppercase;
+    line-height: 100%;
+    letter-spacing: 3px;
+    display: list-item;
+    list-style: none;
+    text-align: -webkit-match-parent;
+    text-align: center;
+}
+.front article.node-page ul, .front article.node-page li
+{
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    list-style: none;
+    list-style-type: none;
+    list-style-position: initial;
+    list-style-image: initial;
+}
+ul, menu, dir
+{
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+header
+{
+	text-align: center;
+	color: #FFF
+}
+.box
+{
+    height: 100px;
+    padding: 8.0em;
+    padding-top: 3px;
+    padding-right: 0.5em;
+    padding-bottom: 0;
+    padding-left: 0.5em;
+    overflow: hidden;
+    text-align: center;
+    color: #FFF
+}
+.box-outer
+{
+    background-color: #660000;
+    zoom: 100%;
+    margin-bottom: .5em;
+    padding-bottom: .15em;
+}
+#doc-body, #doc-body2, #doc-body3, #doc-body4
+{
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    text-align: left;
+    width: 100em;
+    min-width: 800px;
+}
